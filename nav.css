@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navwrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+    /* margin-top: 25px; */
+    background-color: antiquewhite;
+    padding: 6px 0
+}
+
+.navwrapper img{
+    background-color: antiquewhite;
+    height: 60px;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+}
+
+.Home {
+    padding-right: 7px;
+}
+
+.Add {
+    padding-right: 7px;
+}
+
+.Contact {
+    padding-right: 7px;
+}
